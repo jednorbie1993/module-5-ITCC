@@ -20,14 +20,14 @@ int main()
     return 0;
 }
 
-void by_value(int a, int b, int c)
+void by_value(int a, int b, int c) //still 2, 4, 6, parin yan pero naka ready na to change into 0 parang confirm nya muna sau ung original
 {
     a = 0;
     b = 0;
     c = 0;
 }
 
-void by_ref(int *a, int *b, int *c)
+void by_ref(int *a, int *b, int *c) // dto na mag babago 
 {
     *a = 0;
     *b = 0;
