@@ -1,0 +1,2 @@
+// myfile.h
+void greet();
