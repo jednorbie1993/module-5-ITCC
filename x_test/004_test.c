@@ -30,3 +30,4 @@ int main() {
 }
 
 //Write a program that accepts 30 names and sorts them using qsort().
+//reviewed march 18, 2026
