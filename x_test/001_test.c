@@ -91,3 +91,5 @@ void section2() {
     printf("Q12: Sort 30 names?\n");
     printf("A: Use qsort() with compare function\n\n");
 }
+
+//reviewed march 18, 2026
