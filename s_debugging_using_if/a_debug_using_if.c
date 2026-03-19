@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define DEBUG 1
+#define DEBUG 1// palitan mo lang ng 1 and 0 processor directives parin to 
 
 int main() {
 
