@@ -17,3 +17,9 @@ int main() {
     return 0;
 }
 //SEPARATE COMPLETE CODE — calloc() Example
+
+/*
+malloc = gawa space (madumi) mabilis
+calloc = gawa space (malinis) mekabagalan
+realloc = resize space note need ng malloc at calloc kapag may realloc
+*/
